@@ -7,7 +7,7 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 ## À propos de moi
 
 - 🎓 Actuellement en études d'informatique à l'EPSI.
-- 💻 Passionné par le front-end dev web.
+- 💻 Passionné par le dev web.
 - 🌐 Explore mes projets et découvre mon travail !
 
 ## Mes compétences
@@ -18,8 +18,11 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 ## Contact
 
 - 🌐 [Valentin Fiess](https://www.valentin-fiess.fr)
-- 💼 [Linked in](https://www.linkedin.com/in/valentin-fiess/)
 - 🪪 [CV](http://localhost:5173/assets/assets_index/CV.pdf)
+- 💼 [Linked in](https://www.linkedin.com/in/valentin-fiess/)
+
+![Discord](https://img.shields.io/badge/valmtp-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/ValMtp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Stats
 
