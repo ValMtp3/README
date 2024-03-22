@@ -18,7 +18,7 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 ## Contact
 
 - 🌐 [Valentin Fiess](https://www.valentin-fiess.fr)
-- 🪪 [CV](http://localhost:5173/assets/assets_index/CV.pdf)
+- 🪪 [CV](https://www.valentin-fiess.fr/assets/assets_index/CV.pdf)
 - 💼 [Linked in](https://www.linkedin.com/in/valentin-fiess/)
 
 ![Discord](https://img.shields.io/badge/valmtp-5865F2?style=for-the-badge&logo=discord&logoColor=white)
