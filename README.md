@@ -1,13 +1,13 @@
 # Bienvenue sur mon profil GitHub !
 
-Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à l'EPSI avec une passion pour le front-end dev web.
+Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à l'EPSI et en découverte de front-end dev web et machine learning.
 
 
 
 ## À propos de moi
 
 - 🎓 Actuellement en études d'informatique à l'EPSI.
-- 💻 Passionné par le dev web.
+- 💻 Passionné par le dev web et le machine learning.
 - 🌐 Explore mes projets et découvre mon travail !
 
 ## Mes compétences
